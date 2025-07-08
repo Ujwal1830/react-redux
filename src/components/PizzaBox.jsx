@@ -1,4 +1,4 @@
-export const Pizza = () => {
+const PizzaBox = () => {
   return (
     <div>
       <h2 className="text">Number of Pizza Base available - 100</h2>
@@ -6,3 +6,5 @@ export const Pizza = () => {
     </div>
   );
 };
+
+export default PizzaBox;

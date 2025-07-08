@@ -1,8 +1,10 @@
 import { useState } from 'react';
+import PizzaBox from './components/PizzaBox'
+
 function App() {
   return (
     <>
-      <h1>Hello</h1>
+      <PizzaBox />
     </>
   );
 }
