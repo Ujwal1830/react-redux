@@ -1,5 +1,4 @@
-import { useState } from 'react';
-import PizzaBox from './components/PizzaBox'
+import PizzaBox from "./components/PizzaBox";
 
 function App() {
   return (
